@@ -1,4 +1,6 @@
-a=2
-b=3
-c= a+b
-print(c)
+a=8
+b=6
+hasil=a+b
+print ("Variable a=", a)
+print ("Variable b=", b)
+print ("Hasil penjumlahan a+b=", hasil)
